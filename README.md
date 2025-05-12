@@ -101,7 +101,7 @@ A full-stack mobile app (iOS & Android) to plan treks, navigate trails, chat wit
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=kamalkiran898&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="kamal" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalkiran898&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="kamal" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kamalkiranPolisetty&show_icons=true&locale=en&theme=highcontrast&hide_border=true" alt="kamal" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalkiranPolisetty&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="kamal" /></td>
   </tr>
 </table>
