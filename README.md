@@ -74,7 +74,6 @@ A full-stack mobile app (iOS & Android) to plan treks, navigate trails, chat wit
 
 🔧 **Stack:** React Native (Expo) · TypeScript · Node.js · MongoDB · Socket.io · OpenWeather API  
 ✨ **Features:** Live maps, trek posts, real-time chat, weather alerts, SOS system  
-🎯 **Role:** *Frontend Lead*  
 📊 **SUS Score:** 84/100 – Excellent usability
 
 ---
