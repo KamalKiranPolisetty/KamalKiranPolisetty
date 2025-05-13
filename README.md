@@ -21,7 +21,7 @@
 - 💼 Former Software Engineer at **Capgemini**
 - 🔧 Currently learning mobile app development using React Native
 - 📫 Reach me at: [LinkedIn](http://www.linkedin.com/in/kamalkiranpolisetty)
-- ⚡ **Fun fact:** I enjoy building full-stack apps that people actually want to use 🚀
+- ⚡ **Fun fact:** I enjoy building full-stack apps that people want to use 🚀
 
 ---
 
