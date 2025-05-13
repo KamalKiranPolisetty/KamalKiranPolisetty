@@ -7,7 +7,7 @@
 **`Full Stack Developer | Java Developer`**
 
 • Software Engineer with strong academic and industry experience in backend and frontend development  
-• Skilled in Java, TypeScript, Node.js, SQL, and full-stack application design  
+• Skilled in Java, React, JavaScript, Node.js, SQL, MongoDB, and full-stack application design  
 • Previously worked with **Capgemini** and **Cureya**, contributing to Java backend, MuleSoft workflows, and WordPress-based systems  
 • Passionate about building responsive, real-world web and mobile apps using modern frameworks and cloud services  
 • Experienced in collaborative team environments and agile workflows
