@@ -2,7 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=kamalkiranpolisetty&label=🍨_Nice_To_Meet_U!_You+are+my+visitor+No.)
 
 ![Capgemini](https://img.shields.io/badge/Capgemini-0066CC?style=for-the-badge&logo=capgemini&logoColor=white)
+
 ![Texas State University](https://img.shields.io/badge/Texas%20State%20University-Maroon?style=for-the-badge&logo=academia&logoColor=white)
+
 
 **`Full Stack Developer | Java Developer`**
 
@@ -20,6 +22,7 @@
 - 🎓 Graduated MSCS @ Texas State University
 - 💼 Former Software Engineer at **Capgemini**
 - 🔧 Currently learning mobile app development using React Native
+- 📬 Reach me at: [kamalkiranpolisetty@gmail.com](mailto:kamalkiranpolisetty@gmail.com)
 - 📫 Reach me at: [LinkedIn](http://www.linkedin.com/in/kamalkiranpolisetty)
 - ⚡ **Fun fact:** I enjoy building full-stack apps that people want to use 🚀
 
