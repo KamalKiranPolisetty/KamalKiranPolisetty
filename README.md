@@ -95,7 +95,7 @@ A full-stack mobile app (iOS & Android) to plan treks, navigate trails, chat wit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/kamalkiranpolisetty)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamalkiranpolisetty)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tqn25@txstate.edu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamalkiranpolisetty@gmail.com)
 
 ---
 
