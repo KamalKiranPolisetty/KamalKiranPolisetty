@@ -13,7 +13,7 @@
 • Previously worked with **Capgemini** and **Cureya**, contributing to Java backend, MuleSoft workflows, and WordPress-based systems  
 • Passionate about building responsive, real-world web and mobile apps using modern frameworks and cloud services  
 • Experienced in collaborative team environments and agile workflows
-ss
+
 
 ---
 
