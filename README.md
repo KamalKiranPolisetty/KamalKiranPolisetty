@@ -3,10 +3,10 @@
 
 ![Capgemini](https://img.shields.io/badge/Capgemini-0066CC?style=for-the-badge&logo=capgemini&logoColor=white)
 
-![Texas State University](https://img.shields.io/badge/Texas%20State%20University-Maroon?style=for-the-badge&logo=academia&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Texas%20State%20University-Red?style=for-the-badge&logo=academia&logoColor=8C1D40&labelColor=F1C40F&color=8C1D40)
 
 
-**`Full Stack Developer | Java Developer`**
+**`Full Stack Developer | Java Developer | Problem Solver`**
 
 • Software Engineer with strong academic and industry experience in backend and frontend development  
 • Skilled in Java, React, JavaScript, Node.js, SQL, MongoDB, and full-stack application design  
@@ -51,6 +51,7 @@
 
 #### ☁️ Cloud & APIs
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-12924F?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
