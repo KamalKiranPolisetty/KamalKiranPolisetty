@@ -109,3 +109,5 @@ A full-stack mobile app (iOS & Android) to plan treks, navigate trails, chat wit
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KamalKiranPolisetty&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" alt="kamal" /></td>
   </tr>
 </table>
+
+Note: These GitHub projects were migrated from my university's internal Git repositories. Due to the migration process, the entire project appears as a single commit. This setup reflects the transfer method rather than the development timeline.
